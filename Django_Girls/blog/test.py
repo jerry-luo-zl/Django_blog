@@ -8,6 +8,3 @@ class Post():
     DateTimeField is a date and time
     ===========================================================
     '''
-    
-    
-print(Post.objects.all())
